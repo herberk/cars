@@ -105,5 +105,9 @@ return [
     */
 
     'attributes' => [],
-
+    'attributes' => [
+        'make_id' => 'Make',
+        'makeyear_id' => 'Year',
+        'model_id' => 'Model',
+    ],
 ];
